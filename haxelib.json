@@ -1,0 +1,16 @@
+{
+  "name": "hxnodejs-socketio-jwt",
+  "license": "MIT",
+  "tags": [
+    "hxnodejs",
+    "socketio",
+    "jwt"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.1",
+  "dependencies": {}
+}
